@@ -1,11 +1,11 @@
 repositories:
   src/cyberdog_simulator:
     type: git
-    url: https://github.com/MiRoboticsLab/cyberdog_simulator.git
+    url: git@github.com:talon-huang/cyberdog_simulator.git
     version: main
   src/cyberdog_locomotion:
     type: git
-    url: https://github.com/MiRoboticsLab/cyberdog_locomotion.git
+    url: git@github.com:talon-huang/cyberdog_locomotion.git
     version: master
 
 
